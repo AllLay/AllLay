@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Drill",
+        "price": "75",
+        "image": "image/drill.png"
+    },
+    {
+        "id": 2,
+        "name": "Hand-Saw",
+        "price": "25",
+        "image": "image/hand-saw.png"
+    },
+    {
+        "id": 3,
+        "name": "Nail",
+        "price": "0.5",
+        "image": "image/nail.png"
+    },   
+    {
+        "id": 4,
+        "name": "Plier",
+        "price": "65",
+        "image": "image/plier.png"
+    },
+    {
+        "id": 5,
+        "name": "Screw",
+        "price": "0.5",
+        "image": "image/screw.png"
+    },
+    {
+        "id": 6,
+        "name": "Screwdriver",
+        "price": "60",
+        "image": "image/screwdriver.png"
+    },
+    {
+        "id": 7,
+        "name": "Trowel",
+        "price": "70",
+        "image": "image/trowel.png"
+    },
+    {
+        "id": 8,
+        "name": "Wrench",
+        "price": "55",
+        "image": "image/wrench.png"
+    }
+]
