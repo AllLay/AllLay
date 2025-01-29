@@ -21,7 +21,8 @@ document.getElementById('contact-form').addEventListener('submit', function(even
     .then(response => {
         if (response.ok) {
             document.getElementById('form-response').innerHTML = 'Message sent successfully!';
-            document.getElementById('contact-form').reset(); // Reset the form
+            document.getElementById('contact-form').reset();
+            alert("Your message has been sent successfully!");
         } else {
             document.getElementById('form-response').innerHTML = 'Failed to send message. Please try again.';
         }
